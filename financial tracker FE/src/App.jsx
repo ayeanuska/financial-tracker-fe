@@ -1,4 +1,6 @@
 import "./App.css";
+import { Routes, Route } from "react-router-dom";
+import { DefaultLayout } from "./components/layout/DefaultLayout";
 import { Dashboard } from "./pages/Dashboard";
 import { SignUp } from "./pages/SignUp";
 import { Transaction } from "./pages/Transaction";
